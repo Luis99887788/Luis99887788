@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá, eu sou o Luis Fernando
+💻 Estudante de Desenvolvimento de Sistemas
+Sou estudante de Desenvolvimento de Sistemas e estou começando minha jornada na área de tecnologia. Tenho interesse em programação, desenvolvimento web e criação de soluções utilizando tecnologia.
 
-<!--
-**Luis99887788/Luis99887788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente, estou desenvolvendo meus conhecimentos em:
 
-Here are some ideas to get you started:
+🐍 Python
+🌐 HTML
+💻 Lógica de Programação
+🖥️ Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato
+luis.santos130@aluno.cps.sp.gov.br
